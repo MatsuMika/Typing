@@ -1,0 +1,31 @@
+.wrap{
+  height: 20px;
+  width: 400px;
+  padding: 40px 5px;
+  text-align: center;
+  border: solid 1px;
+  font-size: 15px;
+}
+
+.input_guide{
+  margin: 25px;
+}
+
+.input_box{
+  height: 30px;
+  width: 350px;
+  border: solid 1px;
+  font-size: 15px;
+}
+
+.wrap1{
+  width: 400px;
+  text-align: center;
+}
+
+.ok{
+  height: 25px;
+  width: 70px;
+  font-size: 15px;
+  margin: 15px 0 25px 0;
+}
